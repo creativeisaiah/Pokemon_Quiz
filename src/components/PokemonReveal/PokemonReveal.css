@@ -1,0 +1,69 @@
+.pokemon-card {
+  position: relative;
+  width: 250px;
+  height: 300px;
+  margin: 40px auto;
+  background: rgba(0, 0, 0, 0.747);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  perspective: 1000px; /* This gives a 3D perspective */
+  transition: transform 0.2s; /* Smoothens the transition */
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.pokemon-card:hover {
+  transform: scale(1.05);
+}
+
+.pokemon-image img {
+  width: 200px;
+  height: 200px;
+  animation: fadeIn 4s ease-out forwards;
+}
+
+.pokemon-details h2 {
+  color: white;
+  font-size: 2em;
+  max-width: 220px; /* increased the width and used max-width instead of width */
+  text-align: center; /* to center-align the text */
+  word-wrap: break-word; /* break the word if it's too long for its container */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.typing-effect {
+  overflow: hidden; /* Hide overflow */
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
+}

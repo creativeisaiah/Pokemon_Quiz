@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "question": "How do you feel in a crowded place?",
+    "options": ["Excited", "Indifferent", "Uncomfortable"],
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "You find a treasure chest! What do you do?",
+    "options": [
+      "Open it immediately",
+      "Examine for traps",
+      "Leave it alone",
+      "Notify authorities"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "You're in a battle and your team is losing. What's your next move?",
+    "options": [
+      "Fight till the end",
+      "Run away",
+      "Try to negotiate",
+      "Surrender"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Which environment do you prefer?",
+    "options": ["Mountains", "Beach", "City", "Countryside"]
+  },
+  {
+    "id": 5,
+    "question": "What's your favorite time of day?",
+    "options": ["Morning", "Afternoon", "Evening", "Night"]
+  },
+  {
+    "id": 6,
+    "question": "If you could have any superpower, which would you choose?",
+    "options": ["Invisibility", "Flight", "Time Travel", "Telepathy"]
+  },
+  {
+    "id": 7,
+    "question": "Which type of music resonates with you the most?",
+    "options": ["Rock", "Pop", "Classical", "Jazz"]
+  },
+  {
+    "id": 8,
+    "question": "What is your preferred mode of transportation?",
+    "options": ["Walking", "Bicycle", "Car", "Public Transport"]
+  },
+  {
+    "id": 9,
+    "question": "If you had to pick a hobby, which would you choose?",
+    "options": ["Reading", "Painting", "Sports", "Cooking"]
+  },
+  {
+    "id": 10,
+    "question": "Which season do you enjoy the most?",
+    "options": ["Winter", "Spring", "Summer", "Autumn"]
+  },
+  {
+    "id": 11,
+    "question": "Your friend betrayed your trust. What do you do?",
+    "options": [
+      "Confront them",
+      "Cut ties quietly",
+      "Seek revenge",
+      "Forgive and forget"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "What's your ideal vacation?",
+    "options": [
+      "Adventurous trip",
+      "Relaxing at a resort",
+      "Cultural exploration",
+      "Staycation at home"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "You have a free day. How do you spend it?",
+    "options": [
+      "Learning something new",
+      "Resting",
+      "Spending time with loved ones",
+      "Exploring nature"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How do you approach a difficult task?",
+    "options": [
+      "Dive in headfirst",
+      "Plan carefully",
+      "Ask for help",
+      "Avoid it"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "You receive a mysterious letter. Your reaction?",
+    "options": [
+      "Open it immediately",
+      "Be suspicious and investigate",
+      "Ignore it",
+      "Ask someone else to open it"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Which meal of the day is your favorite?",
+    "options": ["Breakfast", "Lunch", "Dinner", "Snacks"]
+  },
+  {
+    "id": 17,
+    "question": "If you stumbled upon a hidden village, what would you do?",
+    "options": [
+      "Explore it",
+      "Introduce yourself",
+      "Leave quietly",
+      "Document your findings"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Which of these would you likely have as a pet?",
+    "options": ["Dog", "Cat", "Bird", "Fish"]
+  },
+  {
+    "id": 19,
+    "question": "How would you react to a sudden power outage at home?",
+    "options": [
+      "Light candles",
+      "Check the fuse box",
+      "Call a friend",
+      "Go outside"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Your method of making decisions is based on...",
+    "options": [
+      "Gut feelings",
+      "Logical analysis",
+      "Advice from others",
+      "Coin flip"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Which element resonates with you the most?",
+    "options": ["Fire", "Water", "Air", "Earth"]
+  },
+  {
+    "id": 22,
+    "question": "If you had to live in a past era, which would it be?",
+    "options": ["Medieval times", "Ancient Egypt", "Renaissance", "The 1920s"]
+  },
+  {
+    "id": 23,
+    "question": "Which genre of movies do you enjoy the most?",
+    "options": ["Action", "Romance", "Horror", "Documentary"]
+  },
+  {
+    "id": 24,
+    "question": "In a group project, which role do you usually take on?",
+    "options": ["Leader", "Researcher", "Presenter", "Note-taker"]
+  },
+  {
+    "id": 25,
+    "question": "What type of books do you read?",
+    "options": ["Fiction", "Non-fiction", "Biographies", "Fantasy"]
+  },
+  {
+    "id": 26,
+    "question": "How do you like to celebrate your birthday?",
+    "options": [
+      "Party with friends",
+      "Quiet day with family",
+      "Adventure trip",
+      "Just another day"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "What is your go-to coping mechanism?",
+    "options": [
+      "Listening to music",
+      "Talking to someone",
+      "Physical activity",
+      "Meditation"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "In a debate, you are more likely to...",
+    "options": [
+      "Defend your view passionately",
+      "Listen and then speak",
+      "Avoid conflict",
+      "Change the topic"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "How do you handle criticism?",
+    "options": [
+      "Reflect on it",
+      "Defend your stance",
+      "Feel upset",
+      "Ignore it"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Which setting calms you the most?",
+    "options": ["Starry night", "Sunny beach", "Quiet forest", "Buzzing city"]
+  },
+  {
+    "id": 31,
+    "question": "Your ideal weekend includes...",
+    "options": ["Adventure", "Relaxation", "Creativity", "Learning"]
+  },
+  {
+    "id": 32,
+    "question": "Which color resonates with you the most?",
+    "options": ["Red", "Blue", "Green", "Yellow"]
+  },
+  {
+    "id": 33,
+    "question": "If you had to learn a new skill, what would it be?",
+    "options": ["Dancing", "Cooking", "Coding", "Painting"]
+  },
+  {
+    "id": 34,
+    "question": "Your friend offers you a mysterious potion. Your reaction?",
+    "options": ["Drink it", "Politely decline", "Ask about it", "Spill it"]
+  }
+]

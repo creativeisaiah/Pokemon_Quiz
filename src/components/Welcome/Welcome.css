@@ -1,0 +1,64 @@
+.welcome-container {
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.747);
+  border-radius: 10px;
+  padding: 40px 20px;
+  box-shadow: 0 3px 12px 5px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.welcome-container h1 {
+  color: white;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.welcome-container p {
+  color: white;
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.welcome-container button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(39, 72, 108, 0.7);
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 1em;
+}
+
+.welcome-container input {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: rgb(0, 0, 0);
+
+  transition: background-color 0.3s;
+  font-size: 1em;
+}
+
+.welcome-container button:hover {
+  background-color: rgba(168, 33, 159, 0.7);
+}
+
+.welcome-container input:hover {
+  background-color: rgba(224, 224, 224, 0.7);
+}
+
+.welcome-container input {
+  margin-right: 10px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
